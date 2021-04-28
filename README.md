@@ -1,15 +1,14 @@
-- 👋 Hi, I’m @chaewonki
-- 👀 I’m interested in back-end
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 개발자 채원기입니다.
+###### HTML, CSS, JavaScript
+###### Node.js 
+###### MySQL(Sequelize), MongoDB
+###### AWS LightSail
+###### webpack
+###### C Language
 
-- 여러가지 프로젝트를 따라 만들며 학습 중입니다. 
-- nodebird -> 조현영 저 nodejs교과서 SNS서비스 만들기
-- kakao-clone -> 노마드코더 kokoa-clone
-- youtube-clone -> 노마드코더 wetube-clone
+* 여러가지 프로젝트를 따라 만들며 학습 중입니다. 
+  + kakao-clone -> Cloning Kakao with HTML and CSS
+  + nodebird -> Social Media like Twitter using Express
+  + youtube-clone -> Cloning Youtube with Express
 
-<!---
-chaewonki/chaewonki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
