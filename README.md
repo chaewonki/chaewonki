@@ -1,4 +1,4 @@
-# 개발자 채원기입니다.
+#### 개발자 채원기입니다.
 ###### HTML, CSS, JavaScript
 ###### Node.js 
 ###### MySQL(Sequelize), MongoDB
